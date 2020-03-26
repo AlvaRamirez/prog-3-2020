@@ -12,3 +12,7 @@ const cantidadPeliculas = (arrayPelis) => {
 }
 
 export { peliculasCopadas, cantidadPeliculas };
+
+
+
+
